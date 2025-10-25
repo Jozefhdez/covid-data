@@ -10,11 +10,15 @@ A React Native application built with Expo that displays COVID-19 statistics for
 
 ## Screenshots
 
+<div align="center">
+
 ### Main Screen
 <img src="./images/main-screen.png" width="300" alt="Main Screen">
 
 ### Country Detail
 <img src="./images/country-detail.png" width="300" alt="Country Detail">
+
+</div>
 
 ## Installation
 
