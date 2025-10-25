@@ -7,15 +7,14 @@ A React Native application built with Expo that displays COVID-19 statistics for
 - Browse a list of all countries with COVID-19 data
 - View detailed statistics for each country
 - Historical data visualization with charts
-- Clean, minimal interface with Space Mono font
 
 ## Screenshots
 
 ### Main Screen
-![Main Screen](./images/main-screen.png)
+<img src="./images/main-screen.png" width="300" alt="Main Screen">
 
 ### Country Detail
-![Country Detail](./images/country-detail.png)
+<img src="./images/country-detail.png" width="300" alt="Country Detail">
 
 ## Installation
 
